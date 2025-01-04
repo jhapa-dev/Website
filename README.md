@@ -7,7 +7,7 @@ This repository serves as a collaborative hub for developers from Jhapa and beyo
 
 ## About the Community  
 
-**Developers Community Jhapa** is a vibrant network of over **500+ developers** dedicated to:  
+**Developers Community Jhapa** is a vibrant network of over **100+ developers** dedicated to:  
 - Enhancing technical skills.  
 - Building impactful projects.  
 - Networking and collaborating on cutting-edge technologies.  
@@ -38,7 +38,7 @@ We welcome contributions from everyone! Here's how you can get involved:
 
 2. **Clone the Repository**:  
    ```bash  
-   git clone https://github.com/your-username/Developers-Community-Jhapa.git  
+   git clone https://github.com/jhapa.dev/Website.git  
 
 3. **Create a New Branch:**:
      ```bash  
